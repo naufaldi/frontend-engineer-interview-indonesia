@@ -5,6 +5,8 @@
 
 ## CSS
 - Bisakah CSS menggunakan @import?
+- Apa saja unit baru pada CSS3?
+- Unit mana saja yang membantu untuk desain web responsif?
 
 
 ## Javascript
@@ -32,3 +34,4 @@
 - Apa bedanya pure component sama functional component?
 - Apa perbedaan Class Component dengan Functional Component?
 - Apa itu SSR dan CSR, kapan kita harus make CSR atau SSR?
+- Bagaimana cara agar browser dan server dapat berkomunikasi tanpa reload halaman?
