@@ -7,6 +7,9 @@
 ## CSS
 - Bisakah CSS menggunakan @import?
 - Perbedaan CSS padding vs Margin?
+- Apa saja unit baru pada CSS3?
+- Unit mana saja yang membantu untuk desain web responsif?
+
 
 
 ## Javascript
@@ -37,3 +40,4 @@
 - Apa perbedaan Class Component dengan Functional Component?
 - Apa itu SSR dan CSR, kapan kita harus make CSR atau SSR?
 - Perbedaan Controlled vs uncontrolled components di React?
+- Bagaimana cara agar browser dan server dapat berkomunikasi tanpa reload halaman?
