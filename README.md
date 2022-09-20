@@ -2,11 +2,14 @@
 
 ## HTML
 - Apa perbedaan div dan span?
+- Perbedaan HTML vs XHTML?
 
 ## CSS
 - Bisakah CSS menggunakan @import?
+- Perbedaan CSS padding vs Margin?
 - Apa saja unit baru pada CSS3?
 - Unit mana saja yang membantu untuk desain web responsif?
+
 
 
 ## Javascript
@@ -21,11 +24,13 @@
 - Apa itu `undefined` dan `null`?
 - Apa perbedaan `while loop` dan `for loop`?
 - Apa itu `closure`?
+- Apakah setTimeout di JS itu asynchronous atau synchronous?
 
 
 ## ReactJS
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
 - Jelaskan lifecycle dari ReactJS?
+- Jelaskan perbedaan Real DOM vs Virtual DOM!
 - Mengapa ReactJS menggunakan virtual DOM dan bukan real DOM?
 - Kapan dan Mengapa menggunakan State Management dan tidak?
 - Apa saja Hooks yang pernah digunakan? Jelaskan juga setiap kegunaannya
@@ -34,4 +39,5 @@
 - Apa bedanya pure component sama functional component?
 - Apa perbedaan Class Component dengan Functional Component?
 - Apa itu SSR dan CSR, kapan kita harus make CSR atau SSR?
+- Perbedaan Controlled vs uncontrolled components di React?
 - Bagaimana cara agar browser dan server dapat berkomunikasi tanpa reload halaman?
