@@ -3,6 +3,8 @@
 ## HTML
 - Apa perbedaan div dan span?
 - Perbedaan HTML vs XHTML?
+- Perbedaan element dan tag HTML
+- Yang dimaksud dengan semantic HTML
 
 ## CSS
 - Bisakah CSS menggunakan @import?
