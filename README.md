@@ -27,6 +27,9 @@
 - Apa perbedaan `while loop` dan `for loop`?
 - Apa itu `closure`?
 - Apakah setTimeout di JS itu asynchronous atau synchronous?
+- Apa itu `Higher Order Function (HOC)`? kemudian berikan contoh penggunaannya 
+- Apa itu `hoisting` pada Javascript?
+- Apa itu `callback` pada Javascript?
 
 
 ## ReactJS
