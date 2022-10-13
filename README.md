@@ -11,6 +11,12 @@
 - Perbedaan CSS padding vs Margin?
 - Apa saja unit baru pada CSS3?
 - Unit mana saja yang membantu untuk desain web responsif?
+- Apa yang dimaksud dengan `CSS Specificity`?
+- Bagaimana cara membuat variabel di dalam CSS
+- Jelaskan perbedaan dari `inline`, `block`, dan `inline-block` dalam CSS
+- Apa yang dimaksud `Pseudo Class` dalam CSS?
+- Bagaimana cara membuat sebuah `div` yang ada di dalam `div` lain berada di tengah (center)?
+- Apa yang itu `Grid System` di dalam CSS?
 
 
 
