@@ -37,7 +37,8 @@
 - Apa itu `Higher-order Function`? kemudian berikan contoh penggunaannya 
 - Apa itu `hoisting` pada Javascript?
 - Apa itu `callback` pada Javascript?
-
+- Apa itu `Promise`?
+- Ketika membuat sebuah `Promise`, apa yang akan terjadi jika `catch` tidak dijalankan?
 
 ## ReactJS
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
