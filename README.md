@@ -17,6 +17,7 @@
 - Apa yang dimaksud `Pseudo Class` dalam CSS?
 - Bagaimana cara membuat sebuah `div` yang ada di dalam `div` lain berada di tengah (center)?
 - Apa yang itu `Grid System` di dalam CSS?
+- Sebutkan apa saja aturan pada CSS Ruleset
 
 
 
@@ -36,7 +37,8 @@
 - Apa itu `Higher-order Function`? kemudian berikan contoh penggunaannya 
 - Apa itu `hoisting` pada Javascript?
 - Apa itu `callback` pada Javascript?
-
+- Apa itu `Promise`?
+- Ketika membuat sebuah `Promise`, apa yang akan terjadi jika `catch` tidak dijalankan?
 
 ## ReactJS
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
