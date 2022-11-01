@@ -1,12 +1,15 @@
 # List Pertanyaan Interview Frontend Engineer
 
 ## HTML
+
 - Apa perbedaan div dan span?
 - Perbedaan HTML vs XHTML?
 - Perbedaan element dan tag HTML
 - Yang dimaksud dengan semantic HTML
+- Apa fungsi dari "<!DOCTYPE html>" diawal file HTML?
 
 ## CSS
+
 - Bisakah CSS menggunakan @import?
 - Perbedaan CSS padding vs Margin?
 - Apa saja unit baru pada CSS3?
@@ -19,9 +22,8 @@
 - Apa yang itu `Grid System` di dalam CSS?
 - Sebutkan apa saja aturan pada CSS Ruleset
 
-
-
 ## Javascript
+
 - Apakah Javascript Async atau sync?
 - Apa perbedaan var, const dan let?
 - Apa saja tipe data di Javascript?
@@ -34,13 +36,14 @@
 - Apa perbedaan `while loop` dan `for loop`?
 - Apa itu `closure`?
 - Apakah setTimeout di JS itu asynchronous atau synchronous?
-- Apa itu `Higher-order Function`? kemudian berikan contoh penggunaannya 
+- Apa itu `Higher-order Function`? kemudian berikan contoh penggunaannya
 - Apa itu `hoisting` pada Javascript?
 - Apa itu `callback` pada Javascript?
 - Apa itu `Promise`?
 - Ketika membuat sebuah `Promise`, apa yang akan terjadi jika `catch` tidak dijalankan?
 
 ## ReactJS
+
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
 - Jelaskan lifecycle dari ReactJS?
 - Jelaskan perbedaan Real DOM vs Virtual DOM!
