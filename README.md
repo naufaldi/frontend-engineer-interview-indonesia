@@ -31,6 +31,7 @@
 - Apa perbedaan Array dan Object?
 - Apa perbedaan `==` dan `===`?
 - Apa itu `this`?
+- Apa perbedaan dari `arrow function` dan `regular function`?
 - Apa itu `undefined` dan `null`?
 - Apa perbedaan `while loop` dan `for loop`?
 - Apa itu `closure`?
@@ -40,7 +41,8 @@
 - Apa itu `callback` pada Javascript?
 - Apa itu `Promise`?
 - Ketika membuat sebuah `Promise`, apa yang akan terjadi jika `catch` tidak dijalankan?
-
+- Apa itu concurrency dan parallelism?
+- Bagaimana Javascript (yang notabene nya single-threaded) menangani proses asynchronous?
 ## ReactJS
 
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
@@ -50,6 +52,7 @@
 - Apa kegunaan prop `key`, dan apa yang terjadi jika tidak menggunakannya?
 - Kapan dan Mengapa menggunakan State Management dan tidak?
 - Apa saja Hooks yang pernah digunakan? Jelaskan juga setiap kegunaannya
+- Mengapa Hooks harus selalu dipanggil di top-level sebuah component?
 - Apa itu high order component?
 - Kapan harus pake context kpan harus pke redux?
 - Apa bedanya pure component sama functional component?
@@ -57,3 +60,5 @@
 - Apa itu SSR dan CSR, kapan kita harus make CSR atau SSR?
 - Perbedaan Controlled vs uncontrolled components di React?
 - Bagaimana cara agar browser dan server dapat berkomunikasi tanpa reload halaman?
+- Apa itu memoization? Apa manfaatnya dalam aplikasi React?
+- Bagaimana perbedaan pengunaan `useMemo` dan `useCallback`?
