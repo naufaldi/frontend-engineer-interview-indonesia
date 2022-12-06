@@ -54,7 +54,7 @@
 - Apa saja Hooks yang pernah digunakan? Jelaskan juga setiap kegunaannya
 - Mengapa Hooks harus selalu dipanggil di top-level sebuah component?
 - Apa itu high order component?
-- Kapan harus pake context kpan harus pke redux?
+- Kapan harus pake context kapan harus pke redux?
 - Apa bedanya pure component sama functional component?
 - Apa perbedaan Class Component dengan Functional Component?
 - Apa itu SSR dan CSR, kapan kita harus make CSR atau SSR?
