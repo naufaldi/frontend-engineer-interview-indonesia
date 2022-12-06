@@ -29,7 +29,6 @@
 - Apa saja tipe data di Javascript?
 - Apa itu DOM?
 - Apa perbedaan Array dan Object?
-- Apa kegunaan prop `key`, dan apa yang terjadi jika tidak menggunakannya?
 - Apa perbedaan `==` dan `===`?
 - Apa itu `this`?
 - Apa itu `undefined` dan `null`?
@@ -48,6 +47,7 @@
 - Jelaskan lifecycle dari ReactJS?
 - Jelaskan perbedaan Real DOM vs Virtual DOM!
 - Mengapa ReactJS menggunakan virtual DOM dan bukan real DOM?
+- Apa kegunaan prop `key`, dan apa yang terjadi jika tidak menggunakannya?
 - Kapan dan Mengapa menggunakan State Management dan tidak?
 - Apa saja Hooks yang pernah digunakan? Jelaskan juga setiap kegunaannya
 - Apa itu high order component?
