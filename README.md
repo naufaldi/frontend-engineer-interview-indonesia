@@ -43,6 +43,8 @@
 - Ketika membuat sebuah `Promise`, apa yang akan terjadi jika `catch` tidak dijalankan?
 - Apa itu concurrency dan parallelism?
 - Bagaimana Javascript (yang notabene nya single-threaded) menangani proses asynchronous?
+- Implementasi Oberserver Pattern dengan dengan menampilkan inputan user dari field `<input />` 
+
 ## ReactJS
 
 - Apa itu JSX? dan bagaimana bisa dirender di HTML?
