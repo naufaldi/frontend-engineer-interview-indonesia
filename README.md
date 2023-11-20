@@ -6,7 +6,7 @@
 - Perbedaan HTML vs XHTML?
 - Perbedaan element dan tag HTML
 - Yang dimaksud dengan semantic HTML
-- Apa fungsi dari "<!DOCTYPE html>" diawal file HTML?
+- Apa fungsi dari `<!DOCTYPE html>` diawal file HTML?
 
 ## CSS
 
